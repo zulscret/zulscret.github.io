@@ -47,11 +47,11 @@ navLinksContainer.querySelectorAll('a').forEach(link => {
 // TYPING ANIMATION
 // =============================================
 const texts = [
-  'Backend Developer',
-  'Data Analyst',
-  'Information Systems Student',
-  'REST API Builder',
-  'Problem Solver'
+  'Data & Business Analyst',
+  'System & Process Analyst',
+  'Supply Chain & Operations Analyst',
+  'SQL, Excel & Power BI Builder',
+  'Information Systems Student (GPA 3.58)'
 ];
 
 const typedEl = document.getElementById('typed-text');
